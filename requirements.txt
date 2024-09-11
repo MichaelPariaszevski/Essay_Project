@@ -1,0 +1,14 @@
+langchain 
+langgraph 
+langchain_community
+unstructured
+pdfminer
+langchain-chroma
+langchainhub 
+pydantic
+lxml 
+unstructured[all-docs]
+tesseract
+
+# Using conda
+conda install -c conda-forge poppler
