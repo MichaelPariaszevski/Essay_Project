@@ -1,0 +1,21 @@
+Highest Market Cap Stocks in NASDAQ:
+
+Ticker: AAPL
+Market Cap: $3.48 trillion
+Public Shares: N/A
+
+Ticker: MSFT
+Market Cap: $3.10 trillion
+Public Shares: N/A
+
+Ticker: NVDA
+Market Cap: $2.94 trillion
+Public Shares: N/A
+
+Ticker: GOOGL
+Market Cap: $2.03 trillion
+Public Shares: N/A
+
+Ticker: LLY
+Market Cap: $775 billion
+Public Shares: N/A

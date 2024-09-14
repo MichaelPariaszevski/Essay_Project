@@ -1,0 +1,5 @@
+Year,Name,Country,Time
+2018,Yuki Kawauchi,Japan,2:15:58
+2019,Lawrence Cherono,Kenya,2:07:57
+2021,Benson Kipruto,Kenya,2:09:51
+2022,Evans Chebet,Kenya,2:06:51

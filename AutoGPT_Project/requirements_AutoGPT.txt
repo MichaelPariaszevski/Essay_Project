@@ -5,3 +5,7 @@ langchain
 langchain-experimental 
 langchain-openai
 pandas 
+playwright 
+faiss-cpu
+duckduckgo-search # pip install -U duckduckgo-search
+# also run: playwright install
