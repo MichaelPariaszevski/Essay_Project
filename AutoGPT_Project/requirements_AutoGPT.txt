@@ -7,5 +7,7 @@ langchain-openai
 pandas 
 playwright 
 faiss-cpu
+python-dotenv
+tabulate
 duckduckgo-search # pip install -U duckduckgo-search
 # also run: playwright install
