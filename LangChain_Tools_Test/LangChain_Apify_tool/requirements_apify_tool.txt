@@ -1,0 +1,14 @@
+bs4 
+asyncio 
+asyncio-nest 
+langchain 
+langchain-experimental 
+langchain-openai
+pandas 
+playwright 
+faiss-cpu
+python-dotenv
+tabulate
+apify-client
+duckduckgo-search # pip install -U duckduckgo-search
+# also run: playwright install
