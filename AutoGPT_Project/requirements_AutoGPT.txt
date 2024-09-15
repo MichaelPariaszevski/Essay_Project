@@ -1,9 +1,11 @@
 bs4 
 asyncio 
-asyncio-nest 
+# asyncio-nest 
 langchain 
 langchain-experimental 
 langchain-openai
+langchain-core
+langchainhub
 pandas 
 playwright 
 faiss-cpu
